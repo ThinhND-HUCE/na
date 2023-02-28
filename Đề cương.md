@@ -5,10 +5,10 @@
   * _Tên học phần_: **Toán học tính toán**
   * _Mã số học phần_:
   * _Thuộc khối kiến thức kỹ năng_: Kiến thức cơ sở ngành
-  * *Số tín chỉ*: **3**
-    + _Số giờ lý thuyết / số buổi_: **36 / 12**
-    + _Số giờ thực hành / số buổi_: **9 / 3**
-    + _Số giờ chuẩn bị / tự học của sinh viên_: **90**
+  * *Số tín chỉ*: **2**
+    + _Số giờ lý thuyết / số buổi_: **30 / 10**
+    + _Số giờ thực hành / số buổi_: **6 / 2**
+    + _Số giờ chuẩn bị / tự học của sinh viên_: **60**
   * _Học phần tiên quyết_: **Đại số**, **Giải tích 1**, **Giải tích 2**
 
 ## 2. Mô tả học phần
