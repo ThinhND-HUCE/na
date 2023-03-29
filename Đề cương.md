@@ -290,9 +290,9 @@ giá
         <li>Phương pháp chia đôi</li>
         <li>Phương pháp Newton</li>
         <li>Lặp điểm bất động</li>
-        <li>Phân tích sai số của các phương pháp lặp</li>
-        <li>Tăng tốc độ hội tụ</li>
-        <li>Nghiệm của đa thức và phương pháp Muller</li>
+        <li><i>Phân tích sai số của các phương pháp lặp</i></li>
+        <li><i>Tăng tốc độ hội tụ</i></li>
+        <li><i>Nghiệm của đa thức và phương pháp Muller</i></li>
       </ol>
       <b>Bài tập</b>
     </td>
@@ -308,12 +308,12 @@ giá
       <p><b>Chương 3.</b> Nội suy và xấp xỉ bằng đa thức</p>
       <ol>
         <li>Đa thức nội suy và đa thức Lagrange</li>
-        <li>Xấp xỉ số liệu và phương pháp Neville</li>
-        <li>Sai phân chia</li>
-        <li>Nội suy Hermite</li>
+        <li><i>Xấp xỉ số liệu và phương pháp Neville</i></li>
+        <li><i>Sai phân chia</i></li>
+        <li><i>Nội suy Hermite</i></li>
         <li>Nội suy Newton</li>
-        <li>Nội suy spline bậc ba</li>
-        <li>Đường cong tham số</li>
+        <li><i>Nội suy spline bậc ba</i></li>
+        <li><i>Đường cong tham số</i></li>
       </ol>
       <b>Bài tập</b>
     </td>
@@ -329,13 +329,13 @@ giá
       <p><b>Chương 4.</b> Tính gần đúng đạo hàm và tích phân</p>
       <ol>
         <li>Tính gần đúng đạo hàm</li>
-        <li>Ngoại suy Richardson</li>
+        <li><i>Ngoại suy Richardson</i></li>
         <li>Tính gần đúng tích phân</li>
-        <li>Tích phân Romberg</li>
-        <li>Phương pháp cầu phương thích ứng</li>
-        <li>Cầu phương Gauss</li>
-        <li>Tích phân bội</li>
-        <li>Tích phân suy rộng</li>
+        <li><i>Tích phân Romberg</i></li>
+        <li><i>Phương pháp cầu phương thích ứng</i></li>
+        <li><i>Cầu phương Gauss</i></li>
+        <li><i>Tích phân bội</i></li>
+        <li><i>Tích phân suy rộng</i></li>
       </ol>
       <b>Bài tập</b>
     </td>
@@ -365,15 +365,15 @@ giá
         <li>Phương pháp Pircard</li>
         <li>Phương pháp chuỗi Taylor</li>
         <li>Phương pháp Euler</li>
-        <li>Phương pháp Taylor bậc cao</li>
+        <li><i>Phương pháp Taylor bậc cao</i></li>
         <li>Phương pháp Runge - Kutta</li>
-        <li>Điều khiển sai số và phương pháp Runge - Kutta - Fehlberg</li>
-        <li>Phương pháp đa bước</li>
-        <li>Phương pháp đa bước với bước nhảy biến thiên</li>
-        <li>Phương pháp ngoại suy</li>
-        <li>Phương pháp cấp cao và hệ phương trình vi phân</li>
-        <li>Sự ổn định</li>
-        <li>Phương trình vi phân cứng</li>
+        <li><i>Điều khiển sai số và phương pháp Runge - Kutta - Fehlberg</i></li>
+        <li><i>Phương pháp đa bước</i></li>
+        <li><i>Phương pháp đa bước với bước nhảy biến thiên</i></li>
+        <li><i>Phương pháp ngoại suy</i></li>
+        <li><i>Phương pháp cấp cao và hệ phương trình vi phân</i></li>
+        <li><i>Sự ổn định</i></li>
+        <li><i>Phương trình vi phân cứng</i></li>
       </ol>
       <b>Bài tập</b>
     </td>
