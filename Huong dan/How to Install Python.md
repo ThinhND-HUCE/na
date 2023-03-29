@@ -1,1 +1,1 @@
-![Alternate image text](https://github.com/ThinhND-HUCE/Resources/blob/main/LongestPath.png)
+![How to Install Python](https://github.com/ThinhND-HUCE/na/blob/main/Resources/How-to-Install-Python-1.jpg)
