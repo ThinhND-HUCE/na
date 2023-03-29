@@ -18,4 +18,6 @@
 3) Hộp thoại **`Select Additional Tasks`** có thể chọn **`Create a desktop icon`** $\rightarrow$ **`Next`** $\rightarrow$ **`Install`**
 ![How to Install Python](https://github.com/ThinhND-HUCE/na/blob/main/Resources/How-to-Install-VS-Code-3.jpg)
 
+4) Làm việc với file **`Jupyter Notebook`**: vào menu **`File`** $\rightarrow$ **`New File...`**
+
 # 3. Cài đặt gói lệnh cho Python
