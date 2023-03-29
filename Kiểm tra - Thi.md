@@ -1,5 +1,7 @@
 # 1. Bài kiểm tra 1 / 2
-  * **Hình thức:** tự luận, được sử dụng tài liệu, **không** được dùng internet
+  * **Hình thức:**
+    + tự luận, trình bày công thức, ghi kết quả, **không** ghi lệnh vào bài làm
+    + được sử dụng tài liệu, **không** được dùng internet
   * **Nội dung:**
     + Giải gần đúng phương trình một biến bằng phương pháp **Newton** hoặc **lặp điểm bất động**: tìm nghiệm gần đúng và đánh giá sai số sau vài bước lặp
     + Cho hàm số dưới dạng bảng hoặc công thức. Tìm đa thức nội suy của hàm số tại các mốc nội suy cho trước bằng phương pháp **Lagrange**, **Newton** tiến / lùi
@@ -8,11 +10,15 @@
     + Bài toán giá trị ban đầu của **phương trình / hệ phương trình vi phân** / **phương trình vi phân cấp cao** bằng phương pháp **Euler** / **RK4**: tính gần đúng giá trị của nghiệm trên lưới cho trước.
 
 # 2. Bài kiểm tra 2 / 2
-  * **Hình thức:** tự luận, được sử dụng tài liệu, **không** được dùng internet
+  * **Hình thức:**
+    + tự luận, trình bày công thức, ghi kết quả, **không** ghi lệnh vào bài làm
+    + được sử dụng tài liệu, **không** được dùng internet
   * **Nội dung:**
     + Giải gần đúng hệ phương trình tuyến tính bằng phương pháp **lặp điểm bất động** và đánh giá sai số sau vài bước lặp.
     + Bằng phương pháp **bình phương tối thiểu**, tìm xấp xỉ của hàm số dưới dạng bảng bởi dạng hàm / không gian hàm cho trước.
 
 # 3. Thi
-  * **Hình thức:** tự luận, được dùng máy tính của nhà trường, **không** sử dụng tài liệu
-  * **Nội dung:**
+  * **Hình thức:**
+    + tự luận, trình bày công thức, ghi kết quả, **không** ghi lệnh vào bài làm
+    + **không** sử dụng tài liệu
+  * **Nội dung:** bao gồm các dạng ở hai bài kiểm tra
