@@ -1,3 +1,4 @@
+# Lịch cài nốt Python trên phòng máy: từ tiết 7 thứ 4 ngày 12/4
 ## Chú ý:
    * Sinh viên vào hàng ngày, đặc biệt **01 ngày** trước buổi học / kiểm tra / thi
    * Đọc kỹ **đề cương** để theo dõi tiến độ học / kiểm tra
