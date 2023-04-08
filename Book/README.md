@@ -4,7 +4,7 @@
   
 # Chú ý
   * Trên hệ điều hành Windows, dùng phần mềm `WinDjView` để đọc file đuổi `djvu`
-  * **Không in** tài liệu của Nguyễn Đức Thịnh
+  * **Không in** bài giảng của Nguyễn Đức Thịnh
 
   
 
