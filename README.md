@@ -1,4 +1,4 @@
-# Có bạn quên 1 cái ô màu đen ở Phòng máy 4 hôm thi
+## Có bạn quên 1 cái ô màu đen ở Phòng máy 4 hôm thi
 
 ## Chú ý:
    * Sinh viên vào hàng ngày, đặc biệt **01 ngày** trước buổi học / kiểm tra / thi
