@@ -1,7 +1,7 @@
 ## Chú ý:
    * Sinh viên vào hàng ngày, đặc biệt **01 ngày** trước buổi học / kiểm tra / thi
    * Đọc kỹ **đề cương** để theo dõi tiến độ học / kiểm tra
-   * Link tải phần mềm hỗ trợ
+   * Link tải ngôn ngữ lập trình và phần mềm hỗ trợ
 <table align="center">
   <tr>
     <td><a href="https://www.python.org/downloads/"> Python </a></td>
