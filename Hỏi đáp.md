@@ -1,6 +1,4 @@
-* **Hình thức kiểm tra giữa kỳ thế nào?**
-
-_Trả lời_: 
+* **Hình thức kiểm tra giữa kỳ thế nào?** _Trả lời_:
   + Làm tự luận trên giấy thi (sinh viên tự chuẩn bị)
   + Thời gian **45-60** phút
   + Có **2** bài kiểm tra. **Được dùng tài liệu / máy tính cá nhân**, nhưng **không trao đổi**, **không internet**, **không điện thoại**
