@@ -1,4 +1,4 @@
-## Chú ý:
+# Chú ý:
    * Sinh viên vào hàng ngày, đặc biệt **01 ngày** trước buổi học / kiểm tra / thi
    * Đọc kỹ **đề cương** để theo dõi tiến độ học / kiểm tra
    * Link tải ngôn ngữ lập trình và phần mềm hỗ trợ
