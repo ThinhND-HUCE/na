@@ -1,3 +1,8 @@
+# Thông báo: lịch thi bù
+* Lớp DQT35, môn Toán học tính toán, học kỳ 3 2022-2023
+* Thời gian: 9h25-10h40 (75 phút) ngày 18/7/2023
+* Địa điểm: Bộ môn Toán ứng dụng, phòng A1.P409
+
 # Chú ý:
    * Sinh viên vào hàng ngày, đặc biệt **01 ngày** trước buổi học / kiểm tra / thi
    * Đọc kỹ **đề cương** để theo dõi tiến độ học / kiểm tra
