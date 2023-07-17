@@ -2,6 +2,11 @@
 * Lớp **DQT35**, môn **Toán học tính toán**, học kỳ 3 2022-2023
 * _Thời gian:_ 9h25-10h40 (75 phút) ngày 18/7/2023
 * _Địa điểm:_ Bộ môn Toán ứng dụng, phòng A1.P409
+* **Yêu cầu:**
+  + Sinh viên mang theo máy tính xách tay có cài phần mềm hỗ trợ tính toán (**MATLAB** / **Mathematica** / hoặc **Python** tùy ý chọn)
+  + Không dùng tài liệu
+  + Trên màn hình chỉ hiển thị giao diện của phần mềm tính toán
+
 
 # Chú ý:
    * Sinh viên vào hàng ngày, đặc biệt **01 ngày** trước buổi học / kiểm tra / thi
