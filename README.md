@@ -1,6 +1,6 @@
 # Thông báo: lịch học bù
 * Lớp **DQT**, môn **Toán học tính toán**, học kỳ 1 2023-2024
-* _Thời gian:_ 18h25-20h00 ngày 13/9/2023
+* _Thời gian:_ 18h00-20h00 ngày 13/9/2023
 * _Địa điểm:_ link phần mềm Zoom hoặc MS Teams
 
 * **Yêu cầu (dành cho buổi thi):**
