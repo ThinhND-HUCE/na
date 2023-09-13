@@ -1,8 +1,7 @@
-# Thông báo: lịch học bù
+# Thông báo: lịch thi
 * Lớp **DQT**, môn **Toán học tính toán**, học kỳ 1 2023-2024
-* _Thời gian:_ 18h00-20h00 ngày 13/9/2023
-* _Địa điểm:_ link MS Teams https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTI2YjhmZDEtOTE5Yy00YTRhLWEzZGEtNDdmYTk2YTJhNmEz%40thread.v2/0?context=%7b%22Tid%22%3a%225400de46-bf46-4559-b44c-e447548a6cb2%22%2c%22Oid%22%3a%228bed203b-e000-4483-89c8-5d1c42763b19%22%7d
-
+* _Thời gian:_ 18h00-20h00 ngày **đang cập nhật**
+* _Địa điểm:_ bộ môn Toán ứng dụng, P409.A1
 * **Yêu cầu (dành cho buổi thi):**
   + Sinh viên mang theo máy tính xách tay có cài phần mềm hỗ trợ tính toán (**MATLAB** / **Mathematica** / hoặc **Python** tùy ý chọn)
   + Không dùng tài liệu
