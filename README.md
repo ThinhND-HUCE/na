@@ -1,6 +1,6 @@
 # Thông báo: lịch thi
 * Lớp **DQT**, môn **Toán học tính toán**, học kỳ 1 2023-2024
-* _Thời gian:_ 18h00-19h30 ngày ??? **(đang cập nhật)**
+* _Thời gian:_ **13h30-15h00** thứ 7 ngày ngày **07/10/2023**
 * _Địa điểm:_ bộ môn Toán ứng dụng, P409.A1
 * **Yêu cầu (dành cho buổi thi):**
   + Sinh viên mang theo máy tính xách tay có cài phần mềm hỗ trợ tính toán (**MATLAB** / **Mathematica** / hoặc **Python** tùy ý chọn)
