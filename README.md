@@ -1,11 +1,4 @@
-# Thông báo: lịch thi
-* Lớp **DQT62**, **DQT62.67**, môn **Toán học tính toán**, học kỳ 1 2023-2024
-* _Thời gian:_ **15h00-16h30** thứ 7 ngày ngày **07/10/2023**
-* _Địa điểm:_ bộ môn Toán ứng dụng, P409.A1
-* **Yêu cầu (dành cho buổi thi):**
-  + Sinh viên mang theo máy tính xách tay có cài phần mềm hỗ trợ tính toán (**MATLAB** / **Mathematica** / hoặc **Python** tùy ý chọn)
-  + Không dùng tài liệu
-  + Trên màn hình chỉ hiển thị giao diện của phần mềm tính toán
+# Thông báo: 
 
 
 # Chú ý:
