@@ -1,5 +1,6 @@
 # Thông báo: 
-
+  * Lớp trưởng in file chứa mã lệnh cho buổi học tương ứng, phát cho mọi sinh viên của lớp. Tìm trong thư mục `Code`
+     + Lớp 68IT1, 2  buổi học số 2 (thứ 6 ngày 9/8/2024): file `Lession 2.pdf`
 
 # Chú ý:
    * Sinh viên vào hàng ngày, đặc biệt **01 ngày** trước buổi học / kiểm tra / thi
@@ -12,5 +13,5 @@
   </tr>
 </table>
 
-  * Lớp trưởng in file chứa mã lệnh cho buổi học tương ứng, phát cho mọi sinh viên của lớp. Tìm trong thư mục `Code`
+
 
