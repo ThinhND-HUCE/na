@@ -1,5 +1,7 @@
 # Thông báo: 
-   * **Đã có tài liệu được sử dụng khi thi cho lớp 68IT1 + 2. Sinh viên chỉ được sử dụng duy nhất tài liệu này + máy tính trên phòng máy.**
+   * **Đã có tài liệu được sử dụng khi thi cho lớp 68IT1 + 2.**
+   * **Sinh viên tìm và in tài liệu ứng với mã số của mình trong thư mục của lớp tương ứng**
+   * **Sinh viên chỉ được sử dụng duy nhất tài liệu này + máy tính trên phòng máy.**
 
 # Chú ý:
    * Sinh viên vào hàng ngày, đặc biệt **01 ngày** trước buổi học / kiểm tra / thi
