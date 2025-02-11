@@ -9,7 +9,7 @@
   <tr>
     <td><a href="https://www.python.org/downloads/"> Python (phiên bản gốc) </a></td>
     <td><a href="https://code.visualstudio.com/download"> Visual Studio Code (gốc) </a></td>
-    <td><a href="https://code.visualstudio.com/download"> Visual Studio Code tích hợp Python và các gói lệnh </a></td>
+    <td><a href="https://nuceedu-my.sharepoint.com/:u:/g/personal/thinhnd_huce_edu_vn/ETIFg3NXvhZPlD-C4-Hz3CIBm4CuT50SKpDfYasPYnPoFw"> Visual Studio Code tích hợp Python và các gói lệnh </a></td>
   </tr>
 </table>
 
