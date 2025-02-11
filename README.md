@@ -1,7 +1,5 @@
 # Thông báo: 
-   * **Đã có tài liệu được sử dụng khi thi cho lớp 68IT1 + 2.**
-   * **Sinh viên tìm và in tài liệu ứng với mã số của mình trong thư mục của lớp tương ứng**
-   * **Sinh viên chỉ được sử dụng duy nhất tài liệu này + máy tính trên phòng máy.**
+   * 11/2/2025: Sinh viên lớp DQT33 lấy tài liệu và phần mềm. Đọc và làm trước các dạng dễ để buổi tiếp theo trao đổi các dạng còn lại.
 
 # Chú ý:
    * Sinh viên vào hàng ngày, đặc biệt **01 ngày** trước buổi học / kiểm tra / thi
