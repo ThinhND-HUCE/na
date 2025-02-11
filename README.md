@@ -7,8 +7,9 @@
    * Link tải ngôn ngữ lập trình và phần mềm hỗ trợ
 <table align="center">
   <tr>
-    <td><a href="https://www.python.org/downloads/"> Python </a></td>
-    <td><a href="https://code.visualstudio.com/download"> Visual Studio Code </a></td>
+    <td><a href="https://www.python.org/downloads/"> Python (phiên bản gốc) </a></td>
+    <td><a href="https://code.visualstudio.com/download"> Visual Studio Code (gốc) </a></td>
+    <td><a href="https://code.visualstudio.com/download"> Visual Studio Code tích hợp Python và các gói lệnh </a></td>
   </tr>
 </table>
 
