@@ -1,5 +1,16 @@
 # Thông báo: 
-   * 11/2/2025: Sinh viên lớp DQT33 lấy tài liệu và phần mềm. Đọc và làm trước các dạng dễ để buổi tiếp theo trao đổi các dạng còn lại.
+## Lớp DQT33
+  * Dạng đề thi
+    1. (2.5đ) Giải phương trình một biến: phương pháp Newton
+    2. (2.5đ) Nội suy: phương pháp Lagrange
+    3. (2.5đ) Phương trình vi phân: phương pháp Euler
+    4. (2.5đ) Xấp xỉ hàm: xấp xỉ y bởi đa thức bậc hai theo x
+  * Sinh viên lấy tài liệu ôn tập, cài VS Code hỗ trợ Python trên máy cá nhân.
+  * **Hình thức thi:** tự luận, không dùng tài liệu, dùng MATLAB trên máy cá nhân (không được dùng file có sẵn)
+  * **Thời gian**: chưa rõ
+  * **Địa điểm:** Bộ môn Toán ứng dụng 409A1
+
+
 
 # Chú ý:
    * Sinh viên vào hàng ngày, đặc biệt **01 ngày** trước buổi học / kiểm tra / thi
