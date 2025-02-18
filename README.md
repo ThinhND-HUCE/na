@@ -1,4 +1,4 @@
-# Thông báo: 
+# Thông báo: Lớp DQT33 ngày 18/2/2025 bắt đầu học lúc 18h15 
 ## Lớp DQT33
   * Dạng đề thi
     1. (2.5đ) Giải phương trình một biến: phương pháp Newton
