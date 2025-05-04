@@ -1,4 +1,6 @@
 # Thông báo:
+## LOP36: ngày 4/5 nghỉ. Giảng viên không tạo được phòng (có thể do lỗi hệ thống)
+
 ## Lớp DQT33
   * Dạng đề thi
     1. (2.5đ) Giải phương trình một biến: phương pháp Newton
