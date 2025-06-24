@@ -17,7 +17,6 @@
   + Màn hình máy tính chỉ hiển thị duy nhất giao diện **VS Code màu đen**
   + Thanh điều khiển chỉ có duy nhất biểu tượng VS Code (**bỏ ghim** tất cả các ứng dụng không liên quan)
   + Trên thanh thông báo phải có biểu tượng **wifi** đang ở trạng thái **ngắt kết nối**
-  + 
 
 # Giới hạn thi
 ## Giải phương trình
