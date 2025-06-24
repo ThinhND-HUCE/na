@@ -1,4 +1,4 @@
-* Nội dung đề thi: **gồm 5 / 6 câu thuộc các dạng của 2 bài kiểm tra**
+* Nội dung đề thi: **gồm 4 / 6 câu thuộc các dạng của 2 bài kiểm tra**
 
 * Hình thức:
   + Làm tự luận trên giấy thi (sinh viên tự chuẩn bị giấy thi, giấy nháp đúng chuẩn)
