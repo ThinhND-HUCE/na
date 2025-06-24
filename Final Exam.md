@@ -9,19 +9,19 @@
 
 # Giới hạn thi
 ## Giải phương trình
-* Tìm nghiệm gần đúng của phương trình $x = g\left( x \right)$ trên đoạn $\left[ a, b \right]$ bằng phương pháp lặp **điểm bất động** và đánh giá sai số sau $n = 3, 4,$ hoặc 5 bước lặp.
+Tìm nghiệm gần đúng của phương trình $x = g\left( x \right)$ trên đoạn $\left[ a, b \right]$ bằng phương pháp lặp **điểm bất động** và đánh giá sai số sau $n = 3, 4,$ hoặc 5 bước lặp.
 
 ## Nội suy
 Cho bảng giá trị (hoặc biểu thức) của hàm số $y = f\left( x \right)$. Tìm đa thức nội suy của hàm số với các mốc nội suy cho trước bằng phương pháp **Lagrange**. (Số mốc nội suy: 3, 4, hoặc 5.)
 
 ## Tính gần đúng đạo hàm, tích phân
-* Cho biết công thức tính độ dài đường cong $y = \varphi\left( x \right)$ với $x \in \left[ a, b \right]$ là $\displaystyle \int_a^b { \sqrt{ 1 + \left[ \varphi' \left( x \right) \right] ^2 } }$. Tính độ dài đường cong nào đó bằng phương pháp Simpson khi chia đều đoạn $\left[ a, b \right]$ thành 4, 6,..., hoặc 10 đoạn bằng nhau. Đánh giá sai số của phương pháp.
+Cho biết công thức tính độ dài đường cong $y = \varphi\left( x \right)$ với $x \in \left[ a, b \right]$ là $\displaystyle \int_a^b { \sqrt{ 1 + \left[ \varphi' \left( x \right) \right] ^2 } }$. Tính độ dài đường cong nào đó bằng phương pháp Simpson khi chia đều đoạn $\left[ a, b \right]$ thành 4, 6,..., hoặc 10 đoạn bằng nhau. Đánh giá sai số của phương pháp.
 
 ## Phương trình vi phân - Bài toán giá trị ban đầu
-* Giải gần đúng **phương trình vi phân cấp hai** $y'' = f\left( x, y, y' \right)$, $y\left( x_0 \right) = y_0$ bằng phương pháp **Euler** trên lưới $x_1, x_2, \dots, x_N$  cho trước. ($N = 3, 4,$ hoặc 5.)
+Giải gần đúng **phương trình vi phân cấp hai** $y'' = f\left( x, y, y' \right)$, $y\left( x_0 \right) = y_0$ bằng phương pháp **Euler** trên lưới $x_1, x_2, \dots, x_N$  cho trước. ($N = 3, 4,$ hoặc 5.)
 
 ## Hệ phương trình tuyến tính
-* Hệ lặp điểm bất động: tìm nghiệm gần đúng bằng công thức lặp điểm bất động (Jacobi) và đánh giá sai số sau **k = 3, 4, 5** bước lặp, với xấp xỉ ban đầu cho trước.
+Hệ lặp điểm bất động: tìm nghiệm gần đúng bằng công thức lặp điểm bất động (Jacobi) và đánh giá sai số sau **k = 3, 4, 5** bước lặp, với xấp xỉ ban đầu cho trước.
 
 ## Lý thuyết xấp xỉ
-* Cho giá trị của hàm số $f\left( x \right)$ dưới dạng bảng. Bẳng phương pháp **bình phương tối thiểu,** tìm xấp xỉ của $f\left( x \right)$ bởi đa thức bậc hai và đánh giá sai số.
+Cho giá trị của hàm số $f\left( x \right)$ dưới dạng bảng. Bẳng phương pháp **bình phương tối thiểu,** tìm xấp xỉ của $f\left( x \right)$ bởi đa thức bậc hai và đánh giá sai số.
