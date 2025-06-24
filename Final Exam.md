@@ -1,11 +1,23 @@
 * Nội dung đề thi: **gồm 4 / 6 câu thuộc các dạng của 2 bài kiểm tra**
 
 * Hình thức:
-  + Làm tự luận trên giấy thi (sinh viên tự chuẩn bị giấy thi, giấy nháp đúng chuẩn)
+  + Làm tự luận trên giấy thi 
   + Thời gian: **75** phút
-  + Làm trên máy tính tại phòng máy. Chỉ sử dụng phần mềm / ngôn ngữ lập trình do giảng viên chỉ định
-    - Riêng sinh viên lớp DQT: sử dụng máy cá nhân, làm bài trên Bộ môn Toán ứng dụng P409A1
+  
   + Không được sử dụng tài liệu
+
+* **Hình thức:** tự luận (sinh viên tự chuẩn bị giấy thi, giấy nháp đúng chuẩn)
+* **Thời gian:** 75 phút
+* **Không** sử dụng tài liệu
+* Tính toán, lập trình bằng **Python** qua **VS Code**
+* Làm trên máy tính tại phòng máy. Chỉ sử dụng phần mềm / ngôn ngữ lập trình do giảng viên chỉ định
+  + Riêng sinh viên lớp DQT: sử dụng máy cá nhân, làm bài trên Bộ môn Toán ứng dụng P409A1
+* **Ghi chú**: trường hợp lớp thi trên phòng thường, sinh viên chủ động mang **máy tính**, **sạc**, **ổ cắm**:
+  + Trên máy tính phải **xóa** toàn bộ các tệp liên quan đến môn học
+  + Màn hình máy tính chỉ hiển thị duy nhất giao diện **VS Code màu đen**
+  + Thanh điều khiển chỉ có duy nhất biểu tượng VS Code (**bỏ ghim** tất cả các ứng dụng không liên quan)
+  + Trên thanh thông báo phải có biểu tượng **wifi** đang ở trạng thái **ngắt kết nối**
+  + 
 
 # Giới hạn thi
 ## Giải phương trình
