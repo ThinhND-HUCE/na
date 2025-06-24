@@ -7,7 +7,7 @@
     - Riêng sinh viên lớp DQT: sử dụng máy cá nhân, làm bài trên Bộ môn Toán ứng dụng P409A1
   + Không được sử dụng tài liệu
 
-# Giới hạn
+# Giới hạn thi
 ## Giải phương trình
 * Tìm nghiệm gần đúng của phương trình $x = g\left( x \right)$ trên đoạn $\left[ a, b \right]$ bằng phương pháp lặp **điểm bất động** và đánh giá sai số sau $n = 3, 4,$ hoặc 5 bước lặp.
 
