@@ -12,7 +12,7 @@
 * Tìm nghiệm gần đúng của phương trình $x = g\left( x \right)$ trên đoạn $\left[ a, b \right]$ bằng phương pháp lặp **điểm bất động** và đánh giá sai số sau $n = 3, 4,$ hoặc 5 bước lặp.
 
 ## Nội suy
-Cho bảng giá trị (hoặc biểu thức) của hàm số $y = f\left( x \right)$. Tìm đa thức nội suy của hàm số với các mốc nội suy cho trước bằng phương pháp **Lagrange**
+Cho bảng giá trị (hoặc biểu thức) của hàm số $y = f\left( x \right)$. Tìm đa thức nội suy của hàm số với các mốc nội suy cho trước bằng phương pháp **Lagrange**. (Số mốc nội suy: 3, 4, hoặc 5.)
 
 ## Tính gần đúng đạo hàm, tích phân
 * Cho biết công thức tính độ dài đường cong $y = \varphi\left( x \right)$ với $x \in \left[ a, b \right]$ là $\displaystyle \int_a^b { \sqrt{ 1 + \left[ \varphi' \left( x \right) \right] ^2 } }$. Tính độ dài đường cong nào đó bằng phương pháp Simpson khi chia đều đoạn $\left[ a, b \right]$ thành 4, 6,..., hoặc 10 đoạn bằng nhau. Đánh giá sai số của phương pháp.
