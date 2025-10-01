@@ -4,16 +4,13 @@
 * _Địa điểm_: Phòng chuyên môn Toán ứng dụng, P409.A1
 
 ## Lớp DQT39: giới hạn thi môn Toán học tính toán
-  * Dạng đề thi
-    1. (2.5đ) Giải phương trình một biến: phương pháp Newton
-    2. (2.5đ) Nội suy: phương pháp Lagrange
-    3. (2.5đ) Phương trình vi phân: phương pháp Euler
-    4. (2.5đ) Xấp xỉ hàm: xấp xỉ y bởi đa thức bậc hai theo x
-  * Sinh viên lấy tài liệu ôn tập, cài VS Code hỗ trợ Python trên máy cá nhân.
-  * **Hình thức thi:** tự luận, không dùng tài liệu, dùng MATLAB trên máy cá nhân (không được dùng file có sẵn)
-  * **Thời gian**: chưa rõ
-  * **Địa điểm:** Bộ môn Toán ứng dụng 409A1
-
+  * **Dạng đề thi**: chọn 4 trong 6 dạng
+    1. Giải phương trình một biến bằng phương pháp Newton: tìm nghiệm gần đúng và sai số trong 5 bước lặp.
+    2. Tìm đa thức nội suy của hàm số có bảng giá trị cho trước bằng phương pháp Lagrange.
+    3. Giải gần đúng hệ hai phương trình vi phân cấp một bằng phương pháp Euler.
+    4. Giải gần đúng hệ chéo trội bằng phương pháp lặp điểm bất động: tìm nghiệm gần đúng và sai số trong 3 bước lặp.
+    5. Tìm xấp xỉ tốt nhất của hàm số có bảng giá trị cho trước bằng đa thức bậc hai và đánh giá sai số.
+  * **Hình thức thi:** tự luận, không dùng tài liệu, dùng VS Code trên máy cá nhân (không được dùng file có sẵn).
 
 
 # Chú ý:
