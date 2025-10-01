@@ -1,10 +1,10 @@
 # Thông báo:
 ## Lớp DQT39: lịch thi môn Toán học tính toán
-* _Thời gian_: 6h30 - 7h45
+* _Thời gian_: 6h30 - 7h45 chủ nhật 05/10/2025
 * _Địa điểm_: Phòng chuyên môn Toán ứng dụng, P409.A1
 
 ## Lớp DQT39: giới hạn thi môn Toán học tính toán
-  * **Dạng đề thi**: chọn 4 trong 6 dạng
+  * **Dạng đề thi**: chọn 4 trong 5 dạng
     1. Giải phương trình một biến bằng phương pháp Newton: tìm nghiệm gần đúng và sai số trong 5 bước lặp.
     2. Tìm đa thức nội suy của hàm số có bảng giá trị cho trước bằng phương pháp Lagrange.
     3. Giải gần đúng hệ hai phương trình vi phân cấp một bằng phương pháp Euler.
