@@ -3,7 +3,7 @@
 * _Thời gian_: 6h30 - 7h45
 * _Địa điểm_: Phòng chuyên môn Toán ứng dụng, P409.A1
 
-## Lớp DQT33
+## Lớp DQT39: giới hạn thi môn Toán học tính toán
   * Dạng đề thi
     1. (2.5đ) Giải phương trình một biến: phương pháp Newton
     2. (2.5đ) Nội suy: phương pháp Lagrange
