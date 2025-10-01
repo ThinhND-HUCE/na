@@ -1,5 +1,7 @@
 # Thông báo:
-## LOP36: ngày 4/5 nghỉ. Giảng viên không tạo được phòng (có thể do lỗi hệ thống)
+## Lớp DQT39: lịch thi môn Toán học tính toán
+* _Thời gian_: 6h30 - 7h45
+* _Địa điểm_: Phòng chuyên môn Toán ứng dụng, P409.A1
 
 ## Lớp DQT33
   * Dạng đề thi
