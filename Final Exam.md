@@ -36,8 +36,8 @@ Giải gần đúng **phương trình vi phân cấp hai** $y'' = f\left( x, y, 
 -->
 
 ## Hệ phương trình tuyến tính
-<!--Hệ lặp điểm bất động: tìm nghiệm gần đúng bằng công thức lặp điểm bất động (Jacobi) và đánh giá sai số sau **k = 3, 4, 5** bước lặp, với xấp xỉ ban đầu cho trước.-->
-Giải hệ chéo trội bằng phương pháp lặp điểm bất động: tìm nghiệm gần đúng và đánh giá sai số sau **k = 3, 4, 5** bước lặp, với xấp xỉ ban đầu cho trước
+<!--Giải gần đúng **hệ điểm bất động** bằng phương pháp l**ặp điểm bất động** (Jacobi): tìm nghiệm gần đúng và đánh giá sai số sau **k = 3, 4, 5** bước lặp, với xấp xỉ ban đầu cho trước.-->
+Giải **hệ chéo trội** bằng phương pháp **lặp điểm bất động** (Jacobi): tìm nghiệm gần đúng và đánh giá sai số sau **k = 3, 4, 5** bước lặp, với xấp xỉ ban đầu cho trước
 
 ## Lý thuyết xấp xỉ
 <!--Cho giá trị của hàm số $y = f\left( x \right)$ dưới dạng bảng (gồm từ 5 đến 10 điểm). Bẳng phương pháp **bình phương tối thiểu,** tìm xấp xỉ của $f\left( x \right)$ bởi đa thức bậc hai và đánh giá sai số.-->
