@@ -41,3 +41,7 @@ Hệ lặp điểm bất động: tìm nghiệm gần đúng bằng công thức
 
 ## Lý thuyết xấp xỉ
 Cho giá trị của hàm số $y = f\left( x \right)$ dưới dạng bảng (gồm từ 5 đến 10 điểm). Bẳng phương pháp **bình phương tối thiểu,** tìm xấp xỉ của $f\left( x \right)$ bởi đa thức bậc hai và đánh giá sai số.
+<!--
+Cho giá trị của hàm số $y = f\left( x_1, x_2 \right)$ dưới dạng bảng (gồm từ 5 đến 10 điểm). Bẳng phương pháp **bình phương tối thiểu,** tìm xấp xỉ của $f$ bởi đa thức bậc nhất (hai biến) và đánh giá sai số MSE.
+-->
+
