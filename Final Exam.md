@@ -21,6 +21,7 @@
 # Giới hạn thi
 ## Giải phương trình
 Tìm nghiệm gần đúng của phương trình $x = g\left( x \right)$ trên đoạn $\left[ a, b \right]$ bằng phương pháp lặp **điểm bất động** và đánh giá sai số sau $n = 3, 4,$ hoặc 5 bước lặp.
+<!--abc-->
 
 ## Nội suy
 Cho bảng giá trị (hoặc biểu thức) của hàm số $y = f\left( x \right)$. Tìm đa thức nội suy của hàm số với các mốc nội suy cho trước bằng phương pháp **Lagrange**. (Số mốc nội suy: 3, 4, hoặc 5.)
