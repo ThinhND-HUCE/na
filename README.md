@@ -1,4 +1,5 @@
 # Thông báo:
+## Lớp 69IT1,2,3,4: Cập nhật giới hạn thi
 ## Lớp DQT39: lịch thi môn Toán học tính toán
 * _Thời gian_: 6h30 - 7h45 chủ nhật 05/10/2025
 * _Địa điểm_: Phòng chuyên môn Toán ứng dụng, P409.A1
